@@ -9,4 +9,4 @@
 2. second item
 3. third item
 4. [cook](http://cook.aiurs.co)
-6. ![alt text](image.jpg)
+6. ![little dress](image.jpg)
